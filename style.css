@@ -1,0 +1,68 @@
+
+img{
+    width: 100%;
+}
+.cards-list{
+    border: 0;
+}
+.first-section-left ul li{
+    border: 0;
+}
+.first-section button{
+    background: #000;
+}
+
+
+
+.full{
+    box-sizing: border-box;
+   margin: 0;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.full-form{
+    background: #76C27E;
+    color: #fff;
+    max-width: 800px;
+    width: 100%;
+   min-height: 400px;
+   height: 100%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 0 auto;
+   
+   
+}
+label{
+    display: block;
+}
+input{
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 0;
+    padding: 5px;
+}
+
+.information{
+  margin-bottom: 10px;
+}
+.push{
+    width: 150px;
+    float: left;
+   margin-top: 20px;
+    margin-left: 35px;
+    border-radius: 5px;
+}
+.push input{
+    background:  #2A1E59;;
+    color: #76C27E;
+    font-size: 15px;
+    letter-spacing: 4px;
+}
+
+
+
+
+ 
